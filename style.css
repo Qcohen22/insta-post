@@ -1,6 +1,5 @@
 
 
-
 body {
     background: #b9a2d8;
     margin: 0;
@@ -10,10 +9,12 @@ div {
 }
 header {
     background: white;
+    margin: 0 auto;
     padding: 10px;
 }
 header h1 {
     margin: 0;
+    margin-left: 30%;
 }
 div.post {
     background: white;
@@ -27,8 +28,10 @@ div.post img {
 }
 .sub-post-header {
     display: inline-block;
-    width: 80%;
+    width: 20%;
+    
 }
+
 .sub-post-header2 {
     display: inline-block;
     width: 20%;
